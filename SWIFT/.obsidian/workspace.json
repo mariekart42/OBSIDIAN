@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "fbb38dbd7987ce15",
+    "type": "split",
+    "children": [
+      {
+        "id": "589c5f4b2145e6db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04c1e8c0afd0af50",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c9583c038eb2d1e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "743207f031519a0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba5d9422b4f77181",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f37e58061c61cd9a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f533ca4ce0045d0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 317.5
+  },
+  "right": {
+    "id": "31af45e5072698d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "877ddf368e38f561",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69c90aa1f5646459",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "55304ad1a165f3fe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0aebd2e80aa6338f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8756d3f395c6937a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "04c1e8c0afd0af50",
+  "lastOpenFiles": [
+    "NOICE.md",
+    "Transcendence_notes/lololololo.md",
+    "Untitled",
+    "Transcendence_notes/recourses.md",
+    "Transcendence_notes/Here we go again.md",
+    "Transcendence_notes/Installation.md",
+    "Transcendence_notes/todo.md",
+    "Transcendence_notes/Problem to install npm?.md",
+    "Transcendence_notes/Run_Program.md",
+    "Untitled.canvas",
+    "Transcendence_notes/noice recourses.md",
+    "Inception/Docker.md",
+    "Inception/Virtual Box.md",
+    "Inception",
+    "CALCULATOR.md",
+    "FIRST SHIT.md",
+    "lol1.pdf",
+    "noch offene studiengänge.md",
+    "Transcendence_notes/Controllers.md",
+    "Reference.md",
+    "FProblem to install npm%3F.md",
+    "Problem to install npm%3F.md",
+    "Problem to install npm.md",
+    "FProblem to install npm.md",
+    "Transcendence_notes copy/todo.md",
+    "Transcendence_notes copy/Problem to install npm?.md",
+    "Transcendence_notes copy/lololololo.md",
+    "Transcendence_notes copy",
+    "TRANSCENDENCE/lololololo.md",
+    "Transcendence_notes",
+    "NOT MY SERV.md",
+    "TRANSCENDENCE",
+    "Screen Shot 2023-10-14 at 9.11.17 PM.png",
+    "Screen Shot 2023-10-15 at 11.58.57 AM.png",
+    "Screen Shot 2023-10-15 at 11.58.20 AM.png",
+    "Screen Shot 2023-10-07 at 3.40.33 PM.png"
+  ]
+}
